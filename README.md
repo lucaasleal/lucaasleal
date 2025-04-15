@@ -1,5 +1,3 @@
-## Olá, meu nome é Lucas!
-
 ### ⚙️ GitHub Analytics
 
 <table>
