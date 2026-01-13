@@ -1,38 +1,48 @@
-### ⚙️ GitHub Analytics
+<!-- Heading and BIO -->
+<h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I'm Lucas Leal </h1>
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=lucaasleal&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaasleal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center" width="150px">
 
---- 
 
-### 🏆 GitHub Profile Trophy
+💻 **Computer Engineering student** at the **Center for Informatics, UFPE**  
+🤖 **Co-founder of [LASER](#)** – the academic league for embedded systems  
+🏆 **Member of the RoboCup Small Size League team [RoboCIn](#)**  
 
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=lucaasleal&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+✨ I'm passionate about **programming** and **embedded systems**, especially **Arduino** and **Raspberry Pi**.  
+🎨 I enjoy building projects that combine **creativity** with **technology**.
+
+
+</div>
 
 ---
+
+<!-- Github Profile Summary Cards -->
+<p align="center">
+<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucaasleal&theme=moltack"  />
+<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucaasleal&theme=moltack"  />
+</p>
+
+
+
+---
+
+<!-- Banners 4th Phase : SpiderMan -->
+<p align = 'right'>
+<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
+</p>
+
+#### ⛏️  Development Tools
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+- ![](https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/Arduino/arduino1.svg)
+- ![](https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/RaspberryPI/raspberrypi1.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
+
+
+
+</div>
+
+<div align="center">
+<a href="https://www.buymeacoffee.com/lucaasleal"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+</div>
+
