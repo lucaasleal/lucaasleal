@@ -28,7 +28,7 @@
 
 <!-- Banners 4th Phase : SpiderMan -->
 <p align = 'right'>
-<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
+<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="20%">
 </p>
 
 #### ⛏️  Development Tools
@@ -42,7 +42,4 @@
 
 </div>
 
-<div align="center">
-<a href="https://www.buymeacoffee.com/lucaasleal"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-</div>
 
