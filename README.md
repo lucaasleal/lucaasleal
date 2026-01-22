@@ -4,7 +4,7 @@
 <div align="center" width="150px">
 
 
-💻 **Computer Engineering student** at the **Center for Informatics, UFPE**  
+💻 **Computer Engineering student** at the **Informatics Center, UFPE**  
 🤖 **Co-founder of [LASER](#)** – the academic league for embedded systems  
 🏆 **Member of the RoboCup Small Size League team [RoboCIn](#)**  
 
