@@ -5,8 +5,8 @@
 
 
 💻 **Computer Engineering student** at the **Informatics Center, CIn UFPE**  
-🤖 **Co-founder of [LASER](#)** – the academic league for embedded systems  
-🏆 **Member of the RoboCup Small Size League team [RoboCIn](#)**  
+🤖 **Co-founder of [LASER](https://github.com/Liga-Academica-de-Sistemas-Embarcados)** – the academic league for embedded systems  
+🏆 **Member of the RoboCup Small Size League team [RoboCIn](https://github.com/robocin)**  
 
 ✨ I'm passionate about **programming** and **embedded systems**, especially **Arduino** and **Raspberry Pi**.  
 🎨 I enjoy building projects that combine **creativity** with **technology**.
